@@ -1,3 +1,3 @@
-# myrepo A line I wrote on my local computer  
+# myrepo 
 
-# This is a line from Rstudio
+# From Rstudio
